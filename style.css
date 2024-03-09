@@ -8,4 +8,8 @@ initial-scale=1.0”>
 <style>
 @import url(‘https://fonts.googleapis.com/ css2?family=Chakra+Petch:wght@400;700&display=swap’);
 </style>
+body {
+background-color: var(--cor-de-fundo);
+color: var(--branco); font-family: ‘Chakra Petch’, sans-serif;
+}
 </head>
